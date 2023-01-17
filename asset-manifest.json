@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/material-ui--educ/static/css/main.e6c13ad2.css",
+    "main.js": "/material-ui--educ/static/js/main.90b63525.js",
+    "static/js/787.e76162b3.chunk.js": "/material-ui--educ/static/js/787.e76162b3.chunk.js",
+    "index.html": "/material-ui--educ/index.html",
+    "main.e6c13ad2.css.map": "/material-ui--educ/static/css/main.e6c13ad2.css.map",
+    "main.90b63525.js.map": "/material-ui--educ/static/js/main.90b63525.js.map",
+    "787.e76162b3.chunk.js.map": "/material-ui--educ/static/js/787.e76162b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.90b63525.js"
+  ]
+}
